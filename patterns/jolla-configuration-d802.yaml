@@ -1,0 +1,6 @@
+Description: Pattern with packages for d802 configurations
+Name: jolla-configuration-d802
+Requires:
+- patterns-sailfish-device-configuration-d802
+
+Summary: Jolla Configuration d802
